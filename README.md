@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Kunal169
-- 👀 I’m interested in python programing
-- 🌱 I’m currently learning machin learing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me palkunal1412@gmail.com
 
